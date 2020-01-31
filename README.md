@@ -1,0 +1,2 @@
+# googleTrends
+Google Trend API
